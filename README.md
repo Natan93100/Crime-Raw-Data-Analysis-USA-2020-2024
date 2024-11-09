@@ -20,7 +20,7 @@ The aim of the project is to analyze crime data across various areas to identify
 This includes determining the most common crimes, victim profiles, and locations of incidents, allowing for insights into the factors that contribute to crime trends in different areas.
 
 **Description:**<br> 
-This project utilizes advanced SQL techniques to analyze crime data from various dimensions. The project includes:
+This project utilizes advanced SQL techniques to analyze crime data from various dimensions. 
 1. [**Crime Analysis by Area**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Common%20Crimes%20By%20Area.sql): Identifies the top 3 most common crimes in each area based on crime descriptions and frequencies.
 2. [**Victim Demographics**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20By%20Racial%20Background.sql): Provides a breakdown of crime incidents based on the age, sex, and racial background of victims, showing the distribution of crimes by demographic profiles.
 3. [**Weapon and Victim Analysis**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20by%20Profile%20Code.sql): Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
