@@ -10,9 +10,5 @@ professionaly speaking, I hold a B.sc of Economics with a minor in Data-Science;
 Besides my acadmic knowledge and tools, I also have a proffesional background in working as a data analyst where I gained most of my knowledge, skills and tools.
 ## Skills used:
 - **Advanced SQL**: Data manipulation, complex joins, and query optimization
-- **Python Modeling**: Machine learning, data preprocessing, and automation
-- **Statistics**: Hypothesis testing, regression analysis, and probability
-- **Tableau**: Data visualization, interactive dashboards, and storytelling
-- **Excel & VBA**: Data analysis, automation, and dynamic reporting
 ## Table of Contents
 [About](#about)
