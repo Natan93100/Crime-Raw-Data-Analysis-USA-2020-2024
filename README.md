@@ -26,3 +26,6 @@ This project utilizes advanced SQL techniques to analyze crime data from various
 3. [**Weapon and Victim Analysis**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20by%20Profile%20Code.sql): Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
 4. [**Premises and Crime**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Premis%20by%20Area.sql): Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
 5. [**Age-Based Crime Patterns**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/crime%20by%20avg%20group.sql): Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
+   <img width="1276" alt="Top 3 crimes by area" src="https://github.com/user-attachments/assets/a8d22930-0944-4b64-a057-8a9f2761fe45">
+
+
