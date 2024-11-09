@@ -11,7 +11,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 ## Skills used:
 - **Advanced SQL**: Data manipulation, complex joins, and query optimization
 
-### Crime Raw Data Analysis USA 2020-2024<br>
+# Crime Raw Data Analysis USA 2020-2024<br>
 [**For the DataSet**](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present)
  <br>
 
